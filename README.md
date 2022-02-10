@@ -1,19 +1,10 @@
 ### Hello 👋, I'm [Oracy](https://oracymartos.online/) 
 ![Oracy Martos](https://komarev.com/ghpvc/?username=Oracy&color=ff69b4&label=PROFILE+VIEWS&style=flat-plastic)
 <p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/oracymartos/">
-  <img alt="oracy's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="https://www.facebook.com/OracyRezendeM">
-  <img alt="oracy's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/oracy_/">
-  <img alt="oracy's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://open.spotify.com/user/225uorso475ipcfpyw6gqf6zi?si=hmYJ-VYwS6SmGvmmHLuleQ">
-  <img alt="oracy's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
-</a>
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Oracy%20Martos-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/oracymartos/)](https://www.linkedin.com/in/oracymartos/) [![GitHub followers](https://img.shields.io/github/followers/Oracy?label=Follow&style=social)](https://github.com/Oracy/?tab=follow)
+  [![Instagram Badge](https://img.shields.io/badge/-oracy_-blue?style=social&logo=Instagram&link=https://www.instagram.com/oracy_/)](https://www.instagram.com/oracy_/) 
+  [![Spotify Badge](https://img.shields.io/badge/-oracy_-blue?style=social&logo=Spotify&link=https://open.spotify.com/user/225uorso475ipcfpyw6gqf6zi?si=hmYJ-VYwS6SmGvmmHLuleQ)](https://open.spotify.com/user/225uorso475ipcfpyw6gqf6zi?si=hmYJ-VYwS6SmGvmmHLuleQ) 
 </p>
 
 I'm a **Graduate** in Information System in Brazil, **Specilized** in Big Data & Analytics on [PUC-PR](https://www.pucpr.br/). I also work as a **Data Engineering [@Aubay](https://www.aubay.pt/) | [@Farfetch](https://www.farfetch.com)**.
