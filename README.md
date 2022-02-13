@@ -32,6 +32,10 @@ I'm a **Graduate** in Information System in Brazil, **Specilized** in Big Data &
 [![Big_Project](https://github-readme-stats.vercel.app/api/pin/?username=Oracy&repo=Big_Project)](https://github.com/Oracy/Big_Project/tree/master)
 [![Airflow](https://github-readme-stats.vercel.app/api/pin/?username=Oracy&repo=airflow)](https://github.com/Oracy/airflow/tree/master)
 [![Airflow_Dags](https://github-readme-stats.vercel.app/api/pin/?username=Oracy&repo=airflow_dags)](https://github.com/Oracy/airflow_dags/tree/master)
+
+### Wakatime
+
+<!-- [![Oracy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Oracy)](https://github.com/Oracy) -->
 <!--
 **Oracy/Oracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
