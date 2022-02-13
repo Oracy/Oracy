@@ -13,13 +13,25 @@ I'm a **Graduate** in Information System in Brazil, **Specilized** in Big Data &
 <img align="center" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/263849025224660185/7544892A0371C52DC284B844B030F06D8129494B/"/>
 </p>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Oracy&layout=compact)
 
 - 🔭 I’m currently working on Python, Airflow, GCP, Databricks, Looker, BigQuery
 - 🌱 I’m currently learning Databricks
 - 🤹🏽 Fields I enjoy the most include [Automation, Development, Data Engineering]
 - 📫 How to reach me: <oramartos_21@hotmail.com>;
 
+### Most used languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oracy&layout=compact)
+
+### Github Statistics
+
+![Github Statistics](https://github-readme-stats.vercel.app/api?username=Oracy&count_private=true&show_icons=true&theme=dracula)
+
+### Portfolio
+
+[![Big_Project](https://github-readme-stats.vercel.app/api/pin/?username=Oracy&repo=Big_Project)](https://github.com/Oracy/Big_Project/tree/master)
+[![Airflow](https://github-readme-stats.vercel.app/api/pin/?username=Oracy&repo=airflow)](https://github.com/Oracy/airflow/tree/master)
+[![Airflow_Dags](https://github-readme-stats.vercel.app/api/pin/?username=Oracy&repo=airflow_dags)](https://github.com/Oracy/airflow_dags/tree/master)
 <!--
 **Oracy/Oracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
