@@ -33,7 +33,7 @@ I'm a **Graduate** in Information System in Brazil, **Specilized** in Big Data &
 [![Airflow](https://github-readme-stats.vercel.app/api/pin/?username=Oracy&repo=airflow)](https://github.com/Oracy/airflow/tree/master)
 [![Airflow_Dags](https://github-readme-stats.vercel.app/api/pin/?username=Oracy&repo=airflow_dags)](https://github.com/Oracy/airflow_dags/tree/master)
 
-### Wakatime
+<!-- ### Wakatime -->
 
 <!-- [![Oracy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Oracy)](https://github.com/Oracy) -->
 <!--
