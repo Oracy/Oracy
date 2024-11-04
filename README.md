@@ -17,7 +17,7 @@ I'm a **Graduate** in Information System in Brazil, **Specilized** in Big Data &
 - 🔭 I’m currently working on Python, Airflow, GCP, Databricks, Looker, BigQuery
 - 🌱 I’m currently learning Databricks
 - 🤹🏽 Fields I enjoy the most include [Automation, Development, Data Engineering]
-- 📫 How to reach me: <oramartos_21@hotmail.com>;
+- 📫 How to reach me: <oracymartos@gmail.com>;
 
 ### Most used languages
 
