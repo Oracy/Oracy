@@ -7,15 +7,15 @@
   [![Spotify Badge](https://img.shields.io/badge/-oracy_-blue?style=social&logo=Spotify&link=https://open.spotify.com/user/225uorso475ipcfpyw6gqf6zi?si=hmYJ-VYwS6SmGvmmHLuleQ)](https://open.spotify.com/user/225uorso475ipcfpyw6gqf6zi?si=hmYJ-VYwS6SmGvmmHLuleQ) 
 </p>
 
-I'm a **Graduate** in Information System in Brazil, **Specilized** in Big Data & Analytics on [PUC-PR](https://www.pucpr.br/). I also work as a **Data Engineering [@CriticalRiver](https://www.criticalriver.com/) | [@DoorDash](https://www.farfetch.com)**.
+I'm a **Graduate** in Information System in Brazil, **Specilized** in Big Data & Analytics on [PUC-PR](https://www.pucpr.br/). I also work as a **Data Engineering [@Telus Digital](https://www.telusdigital.com/)**.
 
 <p align="center">
 <img align="center" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/263849025224660185/7544892A0371C52DC284B844B030F06D8129494B/"/>
 </p>
 
 
-- 🔭 I’m currently working on Python, Airflow, GCP, Databricks, Looker, BigQuery
-- 🌱 I’m currently learning Databricks
+- 🔭 I’m currently working on Python, Airflow, GCP
+- 🌱 I’m currently learning Databricks, Spark
 - 🤹🏽 Fields I enjoy the most include [Automation, Development, Data Engineering]
 - 📫 How to reach me: <oracymartos@gmail.com>;
 
